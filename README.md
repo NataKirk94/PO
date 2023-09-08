@@ -10,6 +10,7 @@
 1. Протестировать личные события, составить по тестированию отчет
 2. Провести Тест-ран по Smoke-тестированию, составить отчет по тестированию
 3. Провести API-тестирование, составить отчет по работе
+
 Как решала: https://docs.google.com/document/d/1DnnUZiRyJNPx4sYzD3fwEDLhyeXaYxEY_nywgH__09M/edit?usp=sharing
 ## Контактная информация
 Telegram: https://t.me/Nata_Kirk
